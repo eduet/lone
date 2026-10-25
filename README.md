@@ -19,7 +19,7 @@ Clone this repo as a starter, or add it as a dependency and keep your own `lone.
 ## Quick start
 
 ```bash
-git clone https://github.com/eduet/lone.git
+git clone https://github.com/aiduet/lone.git
 cd lone
 npm install
 npm run dev

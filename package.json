@@ -6,7 +6,7 @@
   "description": "An Astro blog theme. Mincho titles, gothic body, white paper.",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/eduet/lone.git"
+    "url": "git+https://github.com/aiduet/lone.git"
   },
   "license": "MIT",
   "engines": {

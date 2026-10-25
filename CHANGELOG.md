@@ -25,5 +25,5 @@ Format: [Keep a Changelog](https://keepachangelog.com/en/1.1.0/). Versioning: [S
 - Photo galleries, a contents list, and older/newer links on a note.
 - GitHub Actions: `astro check` then `build` on `main`.
 
-[Unreleased]: https://github.com/eduet/lone/compare/v0.1.0...HEAD
-[0.1.0]: https://github.com/eduet/lone/releases/tag/v0.1.0
+[Unreleased]: https://github.com/aiduet/lone/compare/v0.1.0...HEAD
+[0.1.0]: https://github.com/aiduet/lone/releases/tag/v0.1.0
